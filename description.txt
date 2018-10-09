@@ -1,4 +1,4 @@
-﻿main backgroud: color:#e8f5fc;
+﻿main: backgroud-color:#e8f5fc;
 footer background: color:#4074a0;
 angles blue: color:#1f9bde;
 header: font: OpenSana Semibold; color:#ffffff; background-color:#1f9bde;
